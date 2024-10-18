@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155006406649",
+    "project_id": "trustpassplus",
+    "storage_bucket": "trustpassplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155006406649:android:8b756aa18bb501cd4a7728",
+        "android_client_info": {
+          "package_name": "com.example.trustpassplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTKffFhl0PepSa95HqOTQP7t89RCaWtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
