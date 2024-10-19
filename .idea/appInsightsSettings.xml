@@ -6,14 +6,6 @@
         <entry key="Firebase Crashlytics">
           <value>
             <InsightsFilterSettings>
-              <option name="connection">
-                <ConnectionSetting>
-                  <option name="appId" value="com.example.trustpassplus" />
-                  <option name="mobileSdkAppId" value="1:155006406649:android:8b756aa18bb501cd4a7728" />
-                  <option name="projectId" value="trustpassplus" />
-                  <option name="projectNumber" value="155006406649" />
-                </ConnectionSetting>
-              </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
               <option name="timeIntervalDays" value="THIRTY_DAYS" />
               <option name="visibilityType" value="ALL" />
